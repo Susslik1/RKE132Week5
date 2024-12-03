@@ -1,0 +1,14 @@
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\bin\Debug\net8.0\OrOperator.exe
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\bin\Debug\net8.0\OrOperator.deps.json
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\bin\Debug\net8.0\OrOperator.runtimeconfig.json
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\bin\Debug\net8.0\OrOperator.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\bin\Debug\net8.0\OrOperator.pdb
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\OrOperator.AssemblyInfoInputs.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\OrOperator.AssemblyInfo.cs
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\OrOperator.csproj.CoreCompileInputs.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\OrOperator.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\refint\OrOperator.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\OrOperator.pdb
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\OrOperator.genruntimeconfig.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\OrOperator\obj\Debug\net8.0\ref\OrOperator.dll

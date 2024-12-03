@@ -1,0 +1,14 @@
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\bin\Debug\net8.0\ANDRanges.exe
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\bin\Debug\net8.0\ANDRanges.deps.json
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\bin\Debug\net8.0\ANDRanges.runtimeconfig.json
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\bin\Debug\net8.0\ANDRanges.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\bin\Debug\net8.0\ANDRanges.pdb
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ANDRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ANDRanges.AssemblyInfoInputs.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ANDRanges.AssemblyInfo.cs
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ANDRanges.csproj.CoreCompileInputs.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ANDRanges.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\refint\ANDRanges.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ANDRanges.pdb
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ANDRanges.genruntimeconfig.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\ANDRanges\obj\Debug\net8.0\ref\ANDRanges.dll

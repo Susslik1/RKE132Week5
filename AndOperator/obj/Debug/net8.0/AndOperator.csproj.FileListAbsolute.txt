@@ -1,0 +1,14 @@
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\AndOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\AndOperator.AssemblyInfoInputs.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\AndOperator.AssemblyInfo.cs
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\AndOperator.csproj.CoreCompileInputs.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\bin\Debug\net8.0\AndOperator.exe
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\bin\Debug\net8.0\AndOperator.deps.json
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\bin\Debug\net8.0\AndOperator.runtimeconfig.json
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\bin\Debug\net8.0\AndOperator.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\bin\Debug\net8.0\AndOperator.pdb
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\AndOperator.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\refint\AndOperator.dll
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\AndOperator.pdb
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\AndOperator.genruntimeconfig.cache
+C:\Users\Saskia\source\repos\Week5LogicalOperator\AndOperator\obj\Debug\net8.0\ref\AndOperator.dll
